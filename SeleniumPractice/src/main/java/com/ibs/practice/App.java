@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello IBS QA1 World! Added Kapil" );
+        System.out.println( "Hello IBS QA1 World! Added" );
     }
 }
